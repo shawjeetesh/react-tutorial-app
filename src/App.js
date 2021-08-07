@@ -10,6 +10,8 @@ function App() {
   // function Decrement (){
   //   setCount(count-1)
   // }
+  
+  // arrow function
   const Increment = ()=>{
     setCount(count+1)
   }
